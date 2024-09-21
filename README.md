@@ -1,6 +1,6 @@
 # recherche-d-arbre-Monte-Carlo-pdl4j
 
-vedeo : 
+video : 
 
 https://www.youtube.com/watch?v=PA6vYDTgdao
 
